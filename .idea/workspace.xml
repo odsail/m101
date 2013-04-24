@@ -1,17 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8e599ae-ced5-4c57-8fe5-e44552f198fa" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week3/hw3.1/hw3.1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week2/week2.2/removeLowestGrade.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/week2/hw2-3 2/userDAO.py" afterPath="$PROJECT_DIR$/week2/hw2-3 2/userDAO.py" />
+    <list default="true" id="f8e599ae-ced5-4c57-8fe5-e44552f198fa" name="Default" comment="initial push">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week3/hw3-2and3-3.cb3a025ac81c.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week4/hw4-3.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week3/hw3.2-3.3/blog.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week4/hw4-3/blog.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week3/hw3.2-3.3/blogPostDAO.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week4/hw4-3/blogPostDAO.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week3/hw3.2-3.3/views/blog_template.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week4/hw4-3/views/blog_template.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week3/hw3.2-3.3/views/entry_template.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week4/hw4-3/views/entry_template.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week3/hw3.2-3.3/views/error_template.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week4/hw4-3/views/error_template.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week3/hw3.2-3.3/views/login.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week4/hw4-3/views/login.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week3/hw3.2-3.3/views/newpost_template.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week4/hw4-3/views/newpost_template.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week4/hw4-3/posts.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week3/hw3.2-3.3/sessionDAO.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week4/hw4-3/sessionDAO.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week3/hw3.2-3.3/views/signup.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week4/hw4-3/views/signup.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week3/hw3.1/students.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week4/sysprofile.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week3/hw3.2-3.3/userDAO.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week4/hw4-3/userDAO.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week3/hw3.2-3.3/validate.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week4/hw4-3/validate.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week3/hw3.2-3.3/views/welcome.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week4/hw4-3/views/welcome.tpl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/week2/week2.3/userDAO.py" afterPath="$PROJECT_DIR$/week2/week2.3/userDAO.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="m101.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="f8e599ae-ced5-4c57-8fe5-e44552f198fa" time="1366683107899" ignored="false" />
+    <file path="/Dummy.txt" changelist="f8e599ae-ced5-4c57-8fe5-e44552f198fa" time="1366830608685" ignored="false" />
     <file path="/blog.py" changelist="f8e599ae-ced5-4c57-8fe5-e44552f198fa" time="1366201764949" ignored="false" />
     <file path="/userDAO.py" changelist="f8e599ae-ced5-4c57-8fe5-e44552f198fa" time="1366246936984" ignored="false" />
     <file path="$APPLICATION_HOME_DIR$/lib/pycharm.jar!/resources/relaxng.rng" changelist="f8e599ae-ced5-4c57-8fe5-e44552f198fa" time="1366456986056" ignored="false" />
@@ -38,10 +63,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="hw3.1.py" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="hw3.1.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/week3/hw3.1/hw3.1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="20" selection-start="338" selection-end="338" vertical-scroll-proportion="0.0">
+            <state line="16" column="20" selection-start="338" selection-end="338" vertical-scroll-proportion="0.033613447">
               <folding />
             </state>
           </provider>
@@ -51,22 +76,16 @@
         <entry file="file://$PROJECT_DIR$/week3/hw3.2-3.3/blog.py">
           <provider selected="true" editor-type-id="text-editor">
             <state line="26" column="9" selection-start="714" selection-end="714" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#613#627#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="blogPostDAO.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="blogPostDAO.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/week3/hw3.2-3.3/blogPostDAO.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="0" selection-start="1059" selection-end="2052" vertical-scroll-proportion="0.09546539">
-              <folding>
-                <element signature="e#1128#2057#0" expanded="false" />
-                <element signature="e#2157#2994#0" expanded="false" />
-                <element signature="e#3105#3390#0" expanded="false" />
-              </folding>
+            <state line="95" column="0" selection-start="2988" selection-end="2988" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -84,15 +103,6 @@
         <entry file="file://$PROJECT_DIR$/week3/hw3.2-3.3/userDAO.py">
           <provider selected="true" editor-type-id="text-editor">
             <state line="87" column="52" selection-start="2541" selection-end="2541" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="collection.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file:///Library/Frameworks/Python.framework/Versions/3.3/lib/python3.3/site-packages/pymongo/collection.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1417" column="0" selection-start="62858" selection-end="62858" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -178,6 +188,186 @@
               <option name="myItemId" value="m101" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="week4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="m101" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="m101" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="week4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hw4-3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="m101" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="m101" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="week4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hw4-3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="m101" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="m101" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="week3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="m101" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="m101" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="week3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hw3.2-3.3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="m101" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="m101" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="week3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hw3.2-3.3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="m101" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="m101" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="week3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hw3.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="m101" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="m101" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="week2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="m101" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="m101" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="week2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hw2-3 2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="m101" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="m101" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="week2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hw2-3 2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="m101" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="m101" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -187,13 +377,13 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="com.jetbrains.python.configuration.PythonSdkConfigurable" />
     <property name="recentsLimit" value="5" />
-    <property name="restartRequiresConfirmation" value="true" />
+    <property name="options.lastSelected" value="com.jetbrains.python.configuration.PythonSdkConfigurable" />
     <property name="last_opened_file_path" value="/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7" />
+    <property name="restartRequiresConfirmation" value="true" />
     <property name="FullScreen" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -423,8 +613,8 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25909752" sideWeight="0.6024259" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39757413" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26273653" sideWeight="0.671159" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39757413" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32884097" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -433,7 +623,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32884097" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32884097" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -523,37 +713,66 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.3/lib/python3.3/site-packages/pymongo/database.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="195" column="0" selection-start="6511" selection-end="6511" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///Library/Frameworks/Python.framework/Versions/3.3/lib/python3.3/linecache.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="0" selection-start="1098" selection-end="1098" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="50" column="0" selection-start="1098" selection-end="1098" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file:///Library/Frameworks/Python.framework/Versions/3.3/lib/python3.3/traceback.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="98" column="0" selection-start="3588" selection-end="3588" vertical-scroll-proportion="0.0">
+        <state line="98" column="0" selection-start="3588" selection-end="3588" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.3/lib/python3.3/site-packages/pymongo/collection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1417" column="0" selection-start="62858" selection-end="62858" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="77" selection-start="1235" selection-end="1241" vertical-scroll-proportion="0.77272725" />
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Python/2.7/site-packages/pymongo-2.5-py2.7-macosx-10.7-intel.egg!/pymongo/mongo_client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="335" column="0" selection-start="14699" selection-end="14699" vertical-scroll-proportion="0.33333334" />
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/SocketServer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="235" column="0" selection-start="8283" selection-end="8283" vertical-scroll-proportion="0.33333334" />
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/wsgiref/simple_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="123" column="0" selection-start="3789" selection-end="3789" vertical-scroll-proportion="0.33333334" />
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/wsgiref/handlers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="85" column="0" selection-start="2959" selection-end="2959" vertical-scroll-proportion="0.33333334" />
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/socket.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="223" column="0" selection-start="7712" selection-end="7712" vertical-scroll-proportion="0.33333334" />
+      </provider>
+    </entry>
+    <entry file="file:///Library/Python/2.7/site-packages/bottle-0.11.3-py2.7.egg/bottle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2670" column="0" selection-start="105823" selection-end="105823" vertical-scroll-proportion="0.33174226" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week3/hw3.2-3.3/blog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="9" selection-start="714" selection-end="714" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/week3/hw3.1/hw3.1.py">
+    <entry file="file://$PROJECT_DIR$/week3/hw3.2-3.3/blogPostDAO.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="20" selection-start="338" selection-end="338" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week3/hw3.2-3.3/userDAO.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="87" column="52" selection-start="2541" selection-end="2541" vertical-scroll-proportion="0.0">
+        <state line="95" column="0" selection-start="2988" selection-end="2988" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -565,79 +784,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.3/lib/python3.3/site-packages/pymongo/collection.py">
+    <entry file="file://$PROJECT_DIR$/week3/hw3.2-3.3/userDAO.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1417" column="0" selection-start="62858" selection-end="62858" vertical-scroll-proportion="0.0">
+        <state line="87" column="52" selection-start="2541" selection-end="2541" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_execfile.py">
+    <entry file="file://$PROJECT_DIR$/week3/hw3.1/students.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="77" selection-start="1235" selection-end="1241" vertical-scroll-proportion="0.77272725">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Python/2.7/site-packages/pymongo-2.5-py2.7-macosx-10.7-intel.egg!/pymongo/mongo_client.py">
+    <entry file="file://$PROJECT_DIR$/week3/hw3.1/hw3.1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="335" column="0" selection-start="14699" selection-end="14699" vertical-scroll-proportion="0.33333334">
+        <state line="16" column="20" selection-start="338" selection-end="338" vertical-scroll-proportion="0.033613447">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/SocketServer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="235" column="0" selection-start="8283" selection-end="8283" vertical-scroll-proportion="0.33333334">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/wsgiref/simple_server.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="123" column="0" selection-start="3789" selection-end="3789" vertical-scroll-proportion="0.33333334">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/wsgiref/handlers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="85" column="0" selection-start="2959" selection-end="2959" vertical-scroll-proportion="0.33333334">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/socket.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="223" column="0" selection-start="7712" selection-end="7712" vertical-scroll-proportion="0.33333334">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Python/2.7/site-packages/bottle-0.11.3-py2.7.egg/bottle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2670" column="0" selection-start="105823" selection-end="105823" vertical-scroll-proportion="0.33174226">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week3/hw3.2-3.3/blog.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="9" selection-start="714" selection-end="714" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#613#627#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week3/hw3.2-3.3/blogPostDAO.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="0" selection-start="1059" selection-end="2052" vertical-scroll-proportion="0.09546539">
-          <folding>
-            <element signature="e#1128#2057#0" expanded="false" />
-            <element signature="e#2157#2994#0" expanded="false" />
-            <element signature="e#3105#3390#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
