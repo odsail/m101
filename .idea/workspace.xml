@@ -6,7 +6,7 @@
     </list>
     <ignored path="m101.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="f8e599ae-ced5-4c57-8fe5-e44552f198fa" time="1366830779723" ignored="false" />
+    <file path="/Dummy.txt" changelist="f8e599ae-ced5-4c57-8fe5-e44552f198fa" time="1366830824081" ignored="false" />
     <file path="/blog.py" changelist="f8e599ae-ced5-4c57-8fe5-e44552f198fa" time="1366201764949" ignored="false" />
     <file path="/userDAO.py" changelist="f8e599ae-ced5-4c57-8fe5-e44552f198fa" time="1366246936984" ignored="false" />
     <file path="$APPLICATION_HOME_DIR$/lib/pycharm.jar!/resources/relaxng.rng" changelist="f8e599ae-ced5-4c57-8fe5-e44552f198fa" time="1366456986056" ignored="false" />
@@ -572,7 +572,11 @@
       <created>1366205163114</created>
       <updated>1366205163114</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="week 3 and start of week 4 code commits">
+      <created>1366830828647</created>
+      <updated>1366830828647</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
