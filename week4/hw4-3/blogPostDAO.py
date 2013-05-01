@@ -34,7 +34,7 @@ class BlogPostDAO:
 
     # inserts the blog entry and returns a permalink for the entry
     def insert_entry(self, title, post, tags_array, author):
-        print "inserting blog entry", title, post
+        print("inserting blog entry", title, post)
 
         # fix up the permalink to not include whitespace
 
@@ -55,10 +55,10 @@ class BlogPostDAO:
         # now insert the post
         try:
             self.posts.insert(post)
-            print "Inserting the post"
+            print("Inserting the post")
         except:
-            print "Error inserting post"
-            print "Unexpected error:", sys.exc_info()[0]
+            print("Error inserting post")
+            print("Unexpected error:", sys.exc_info()[0])
 
         return permalink
 
@@ -135,8 +135,8 @@ class BlogPostDAO:
             return last_error['n']          # return the number of documents updated
 
         except:
-            print "Could not update the collection, error"
-            print "Unexpected error:", sys.exc_info()[0]
+            print("Could not update the collection, error")
+            print("Unexpected error:", sys.exc_info()[0])
             return 0
 
 

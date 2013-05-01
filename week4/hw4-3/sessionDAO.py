@@ -40,7 +40,7 @@ class SessionDAO:
         try:
             self.sessions.insert(session, safe=True)
         except:
-            print "Unexpected error on start_session:", sys.exc_info()[0]
+            print("Unexpected error on start_session:", sys.exc_info()[0])
             return None
 
         return str(session['_id'])

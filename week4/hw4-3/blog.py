@@ -76,7 +76,7 @@ def show_post(permalink="notfound"):
     username = sessions.get_username(cookie)
     permalink = cgi.escape(permalink)
 
-    print "about to query on permalink = ", permalink
+    print("about to query on permalink = ", permalink)
     post = posts.get_post_by_permalink(permalink)
 
     if post is None:
@@ -199,7 +199,7 @@ def process_login():
     username = bottle.request.forms.get("username")
     password = bottle.request.forms.get("password")
 
-    print "user submitted ", username, "pass ", password
+    print("user submitted ", username, "pass ", password)
 
     user_record = users.validate_login(username, password)
     if user_record:
@@ -261,11 +261,11 @@ def process_signup():
             return bottle.template("signup", errors)
 
         session_id = sessions.start_session(username)
-        print session_id
+        print(session_id)
         bottle.response.set_cookie("session", session_id)
         bottle.redirect("/welcome")
     else:
-        print "user did not validate"
+        print("user did not validate")
         return bottle.template("signup", errors)
 
 
@@ -277,7 +277,7 @@ def present_welcome():
     cookie = bottle.request.get_cookie("session")
     username = sessions.get_username(cookie)  # see if user is logged in
     if username is None:
-        print "welcome: can't identify user...redirecting to signup"
+        print("welcome: can't identify user...redirecting to signup")
         bottle.redirect("/signup")
 
     return bottle.template("welcome", {'username': username})

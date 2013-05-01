@@ -35,14 +35,14 @@ db.tweets.find({"user.followers_count":{$gt:1000}}).sort({"created_at" : 1 }).li
 }
 
 // What can you infer from the following explain output? (select all that apply)
-// - This query performs a collection scan.
+// - This query performs a collection scan. (YES)
 //
-// - The query uses an index to determine the order in which to return result documents.
+// - The query uses an index to determine the order in which to return result documents. (YES)
 //
-// - The query uses an index to determine which documents match.
+// - The query uses an index to determine which documents match. (NO)
 //
-// - The query returns 46462 documents.
+// - The query returns 46462 documents. (NO)
 //
-// - The query visits 46462 documents.
+// - The query visits 46462 documents. (YES)
 //
-// - The query is a "covered index query".
+// - The query is a "covered index query". (NO)
